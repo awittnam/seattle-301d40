@@ -35,7 +35,7 @@ function displayPics(){
       viewed.push(rando);
     }
   }
-  console.log(rando);
+  
   // TODO: In a sentence or two, explain why the previous line of code threw an error when we changed the letiable declaration from `let to `let`.
   // The console.log is outside of the code block.
   console.log(viewed);
